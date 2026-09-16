@@ -15,6 +15,7 @@ This is how I added his picture:
 + He is a cute cat
 
 ## Fun Facts
+
 Fun Fact 1 | Fun Fact 2 | Fun Fact 3
 -----------|------------|-----------
-He is >16lbs|He's from Fischers| He vomited yesterday
+He is >16lbs | He's from Fischers | He vomited yesterday
