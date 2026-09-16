@@ -16,6 +16,6 @@ This is how I added his picture:
 
 ## Fun Facts
 
-Fun Fact 1 | Fun Fact 2 | Fun Fact 3
------------|------------|-----------
+Fun Fact 1 | Fun Fact 2 | Fun Fact 3 |
+---|---|---|
 He is >16lbs | He's from Fischers | He vomited yesterday
